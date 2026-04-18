@@ -1,0 +1,23 @@
+{
+  "AI": {
+    "description": "Explorations of artificial intelligence, machine learning, and intelligent systems — from LLM pre-training pipelines to emotion detection. I'm interested in AI not as an end in itself, but as a tool for amplifying human capability."
+  },
+  "HCI": {
+    "description": "Human-Computer Interaction sits at the center of my work. These posts cover UI/UX design, interaction design theory, and what it means to build technology that genuinely fits human needs."
+  },
+  "Language Education": {
+    "description": "My longest-running passion. These posts explore how technology — especially AI — can make language learning more natural, effective, and humane. Often inspired by my experience as an ESL tutor and building tools for ESL readers."
+  },
+  "Psychology": {
+    "description": "A thread that runs through everything I do. I'm fascinated by the cognitive science behind user behavior, how emotion shapes learning, and what computational tools can reveal about the mind."
+  },
+  "Full-Stack": {
+    "description": "Building end-to-end: React frontends, FastAPI backends, database design, cloud trade-offs. These posts document the engineering decisions and lessons learned from shipping real projects."
+  },
+  "Design": {
+    "description": "Visual design, UX craft, and the seemingly small decisions (animation timing, hover states, information hierarchy) that add up to something that feels right to use."
+  },
+  "Reflection": {
+    "description": "Stepping back from the technical. Thoughts on learning, creativity, interdisciplinary work, and what I've picked up from unexpected places — like stand-up comedy."
+  }
+}
