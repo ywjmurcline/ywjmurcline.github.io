@@ -8,7 +8,7 @@
   /* Primary: sage green — growth, calm intellect, human-centered */
   --c-primary:        #193622;
   --c-primary-hover:  #2d6f44;
-  --c-primary-light:  #c8ead3;
+  --c-primary-light:  #e1f1e6;
   --c-primary-xlight: #ffffff;
 
   /* Accent: warm amber-yellow — creativity, warmth, energy */
@@ -23,7 +23,7 @@
   --c-border-strong:  #C4D4C9;
   --c-text:           #1C2B22;
   --c-text-2:         #3D5444;
-  --c-text-muted:     #408c58;
+  --c-text-muted:     #689276;
 
   /* Typography */
   --f-display: 'Space Grotesk', system-ui, -apple-system, sans-serif;
@@ -371,7 +371,7 @@ button { font: inherit; cursor: pointer; border: none; background: none; }
 }
 .card-desc {
   font-size: 0.9rem;
-  color: var(--c-text-muted);
+  color: var(--c-text-2);
   line-height: 1.6;
   display: -webkit-box;
   -webkit-line-clamp: 3;
